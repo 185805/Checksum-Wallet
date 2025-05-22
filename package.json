@@ -4,7 +4,7 @@
   "description": "A wallet application for managing checksums",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm install && npm test"
   },
   "author": "",
   "license": "ISC",
